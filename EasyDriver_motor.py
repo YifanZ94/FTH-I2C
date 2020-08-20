@@ -4,6 +4,8 @@ Created on Sun Aug  2 16:30:07 2020
 
 @author: user
 """
+## edited for 2nd time
+
 import os 
 os.environ["BLINKA_FT232H"] = "1"
 os.chdir('C:/Users/labuser/Desktop/py code/Python3/MMC5603')
